@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" host="cdynot.beget.tech" id="29c361d2-928d-41e7-b527-d969afdd0999" port="22" nameFormat="DESCRIPTIVE" username="cdynot" useOpenSSHConfig="true" />
-    </configs>
-  </component>
-</project>
